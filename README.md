@@ -1,37 +1,42 @@
 # The Mitochondrial Self
 
-**A Biological Account of Consciousness, Evolution, and the Rhetoric of Spirituality**
+**A Biological Case Against the Ghost in the Machine**
 
-Twelve sections in two parts, an interlude on where feelings physically localize in the body, four ready-to-use statements, and an appendix marking exactly where this argument is settled science versus a considered philosophical position. Every section was also built to stand alone individually; the full read is top to bottom, in order.
+An argument, built from the ground up, about what you actually are underneath the sensation of being you — and about what happens to the oldest human questions once you stop assuming the answer has to come from outside biology.
+
+Part One asks what consciousness actually is, and argues from the cell outward. Part Two follows that argument to its consequence: that a great deal of what gets called spiritual, and everything that gets called religious, is running on the same mechanism, with the same costs. Each chapter was built to stand on its own — but they were also built to be read in order, because the argument accumulates.
 
 ## Read it
 
 - **[Read the essay in Markdown](./the-mitochondrial-self.md)** — renders directly on GitHub, best for reading in the browser.
-- **[Download the original PDF](./00-COMPLETE-the-mitochondrial-self.pdf)** — the formatted version, 8 pages.
+- **[Download the original PDF](./00-COMPLETE-the-mitochondrial-self.pdf)** — the formatted version.
 
 ## Contents
 
-### Part One — Consciousness: Where It Comes From, What It Is
+**Preface**
+
+**Part One — Consciousness: Where It Comes From, What It Is**
 1. The Postulate
 2. What We Actually Are
 3. How We Got Here: Chemistry, RNA, and the Cell
 4. The Next Experiment: Nesting the Man-Made Cell
 5. Everything the Mitochondria Signals
+   *Interlude: Three Brains, Not One*
 6. The Mitochondrial Argument: What the Evidence Supports
 7. Consciousness Reconsidered: Who's Actually Playing
 8. Killing the Competition, Killing the Cooperation
 
-*Interlude — Three Brains, Not One*
-
-### Part Two — Spirituality Is the Same Mechanism as Religion
+**Part Two — Spirituality Is the Same Mechanism as Religion**
 9. The Same Mechanism
 10. War: When the Mechanism Scales Up
 11. Compressed Words: The Rhetoric That Confuses
 12. Prophecy: The Self-Fulfilling Machine
 
-### Closing Material
-- Statements to Carry Into the Conversation
-- Appendix — Where This Is Airtight, and Where It's a Choice
+**Statements to Carry Into the Conversation**
+
+**Appendix — Where This Is Airtight, and Where It's a Choice**
+
+**Index**
 
 ## License
 
