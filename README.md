@@ -6,9 +6,12 @@ An argument, built from the ground up, about what you actually are underneath th
 
 Part One asks what consciousness actually is, and argues from the cell outward. Part Two follows that argument to its consequence: that a great deal of what gets called spiritual, and everything that gets called religious, is running on the same mechanism, with the same costs. Each chapter was built to stand on its own — but they were also built to be read in order, because the argument accumulates.
 
+*The Mitochondrial Self* is **Book Two** — a companion volume to *[The Hitchhiker's Guide to the Homo Sapien](https://github.com/ammoncovino/hitchhikers-guide-homo-sapien)* (Book One). Book One opens with the discovery told as a story — Socrates, the daimonion, the trial, the cup — and follows it out into the systems built on top of it: language, ritual, scripture, prophecy, money, power. Book Two goes the other direction: it stays close to the cell and builds the argument up from there. Each book stands on its own, but they were written to be read together, in order.
+
 ## Read it
 
-- **[Read the essay in Markdown](./the-mitochondrial-self.md)** — renders directly on GitHub, best for reading in the browser.
+- **[Read Book Two in Markdown](./the-mitochondrial-self-book-two.md)** — the companion volume that builds the argument up from the cell.
+- **[Read the original manuscript in Markdown](./the-mitochondrial-self.md)** — renders directly on GitHub, best for reading in the browser.
 - **[Download the original PDF](./00-COMPLETE-the-mitochondrial-self.pdf)** — the formatted version.
 
 ## Contents
